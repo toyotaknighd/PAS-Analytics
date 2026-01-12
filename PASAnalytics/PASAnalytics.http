@@ -1,0 +1,6 @@
+@PASAnalytics_HostAddress = http://localhost:5225
+
+GET {{PASAnalytics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
