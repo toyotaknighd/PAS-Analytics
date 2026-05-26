@@ -1,0 +1,12 @@
+{
+  "website": "toyota.co.id",
+  "credentials": {
+    "username": "dummy_user",
+    "email": "dummy.user@toyota.co.id",
+    "password": "DummyPass123!",
+    "api_key": "TI-EXAMPLE-KEY-001",
+    "token_id": "TI-DUMMY-TOKEN-9999"
+  },
+  "environment": "testing",
+  "created_at": "2026-05-26T00:00:00Z"
+}
